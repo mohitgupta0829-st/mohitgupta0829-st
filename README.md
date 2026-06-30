@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgupta0829-st&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mohitgupta0829-st&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0829-st&theme=onestar&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0829-st&theme=tokyonight&no-frame=true&row=1&column=7/>
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
